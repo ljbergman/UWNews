@@ -16,13 +16,13 @@ Get the latest headlines related to the war in Ukraine from 6 different news oul
 - The Hindu
 - ABC News
 
-# LANGUAGES/METHODS USED
+# Languages and methods used
 - HTML
 - SASS / SCSS
 - Typescript
 - Asynchronous API calls using fetch with async/await
 
-# API USED
+# API used
 - [russia-ukraine-war-news](https://rapidapi.com/ayushkr1322/api/russia-ukraine-war-news)
 
 # LIVE DEMO (version 1.0)
