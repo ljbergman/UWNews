@@ -1,6 +1,5 @@
 # Ukraine War News
-Get the latest headlines related to the war in Ukraine from 6 different news outlets
-Read complete articles from 6 different news outlets by clicking on the loaded links
+Get the latest headlines related to the war in Ukraine from 6 different news outlets. Read complete articles from 6 different news outlets by clicking on the loaded links
 
 # What you can do
 - Pick news outlet by clicking on it´s button
