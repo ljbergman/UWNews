@@ -26,5 +26,5 @@ Get the latest headlines related to the war in Ukraine from 6 different news oul
 - [russia-ukraine-war-news](https://rapidapi.com/ayushkr1322/api/russia-ukraine-war-news)
 
 # LIVE EXAMPLE (version 1.0)
-- [UWNews](https://webinno.se/UWNews/)](https://webinno.se/UWNews/)
+- [UWNews]](https://webinno.se/UWNews/)
 
