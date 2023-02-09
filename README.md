@@ -1,9 +1,9 @@
 # Ukraine War News
-Get the latest headlines related to the war in Ukraine from 6 different news oulets
+Get the latest headlines related to the war in Ukraine from 6 different news outlets
 
 # What you can do
-- Pick news outlet by clicking on it
-- Watch loading icon while loading
+- Pick news outlet by clicking on it´s button
+- Watch loading icon while the news is loading in the background
 - Make the last few days news load from the picked news outlet
 - Read news headlines from picked news outlet
 - Visit individual news articles by clicking on the connected links
