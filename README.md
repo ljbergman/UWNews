@@ -20,5 +20,8 @@ Get the latest headlines related to the war in Ukraine from 6 different news oul
 - HTML
 - SASS / SCSS
 - Typescript
-- fetch with async/await
+- Asynchronous API calls with fetch with async/await
+
+# API USED
+- [HTML](https://rapidapi.com/ayushkr1322/api/russia-ukraine-war-news)
 
